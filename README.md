@@ -21,12 +21,13 @@ It is able to produce stunning images and animations.
 - Using multithreading in Java to parallelize rendering
 - Basics of ray tracing too (I ended up not using it in this project, though)
   - Diffuse lighting, specular highlights
+  - Reflections and conservation of light energy
   - Tracing shadow rays and faking soft shadows
   - Coloured and multiple lights
 - I also learned how to create a path tracer (again, not used in this particular project)
   - Rendering equation
   - Explicit light sampling
-  - Texutre mapping, normal maps and specular maps
+  - Texture mapping, normal maps and specular maps
 
 ### Info.
 I made this in the beginning of Grade 12.
